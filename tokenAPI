@@ -1,0 +1,7 @@
+token = 'YOUR TOKEN'
+account_id = ['ACC_ID1', 'ACC_ID2', 'ACC_ID3', 'ACC_ID4', 'ACC_ID5', 'ACC_ID6', 'ACC_ID7', 'ACC_ID8', 'ACC_ID9', 'ACC_ID10', 'ACC_ID11']
+db_name = 'DATABASE NAME'
+db_user = 'DATABASE USER'
+db_password = 'DATABASE PASSWORD'
+db_host = 'DATABASE HOST'
+db_port = 'DATABASE PORT'
